@@ -7,5 +7,5 @@ export default defineConfig({
   // IMPORTANT: Replace <REPOSITORY_NAME> with your GitHub repository name
   // For example, if your repo URL is https://github.com/user/my-app,
   // then the base should be '/my-app/'
-  base: "/<REPOSITORY_NAME>/", 
+  base: "REST-APP1", 
 })
